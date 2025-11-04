@@ -1,5 +1,0 @@
-library(testthat)
-library(uncoverappLib)
-.libPaths()
-list.files(file.path(.libPaths()[1], "uncoverappLib"))
-testthat::test_check("uncoverappLib",report = "summary")

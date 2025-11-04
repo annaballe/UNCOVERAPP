@@ -1,4 +1,5 @@
 # Test e validazione
+#DA MODIFICARE
 
 Unit test (testthat):
 - tests/testthat/ e inst/tests/testthat/ contengono test per funzioni di libreria.
